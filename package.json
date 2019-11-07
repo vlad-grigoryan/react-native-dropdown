@@ -1,0 +1,57 @@
+{
+  "_from": "git+https://github.com/rollsroyc3/react-native-dropdown.git",
+  "_id": "react-native-dropdown@0.0.8",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-dropdown",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-dropdown@git+https://github.com/rollsroyc3/react-native-dropdown.git",
+    "name": "react-native-dropdown",
+    "escapedName": "react-native-dropdown",
+    "rawSpec": "git+https://github.com/rollsroyc3/react-native-dropdown.git",
+    "saveSpec": "git+https://github.com/rollsroyc3/react-native-dropdown.git",
+    "fetchSpec": "https://github.com/rollsroyc3/react-native-dropdown.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/rollsroyc3/react-native-dropdown.git#7d43978558400873f09196ecd92ae02d89374056",
+  "_spec": "react-native-dropdown@git+https://github.com/rollsroyc3/react-native-dropdown.git",
+  "_where": "/Users/vlad/projects/petsharing_app",
+  "author": {
+    "name": "Ali Najafizadeh",
+    "email": "a.najafizadeh@gmail.com",
+    "url": "http://github.com/alinz"
+  },
+  "bugs": {
+    "url": "https://github.com/alinz/react-native-dropdown"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Azhar khan",
+      "email": "azhar.mw@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "A better Select dropdown menu for react-native",
+  "homepage": "https://github.com/alinz/react-native-dropdown",
+  "keywords": [
+    "react-component",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-native-dropdown",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alinz/react-native-dropdown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.8"
+}
